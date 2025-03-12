@@ -4,7 +4,7 @@ USER = "Vishal"
 PASSWORD = "PASS@!23"
 login_creds = "PASS@!23"
 DB = "db+srv://my-user:PASS@!23@clustername.db.net/"
-PASS = "abc12345abc12345abc12345abc12345abc12345abc"
+netlify = "abc12345abc12345abc12345abc12345abc12345abc"
 def login(user, password):
     if user==USER and password==PASSWORD:
         return True
