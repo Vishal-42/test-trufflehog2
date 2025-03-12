@@ -17,4 +17,4 @@ GCP_SECRET_KEY = '4e&6bz+(5&cg^_!05r(&7_#dghg_smrojq(yk)xa^bwg7j)^*j'
 test_SECRET_KEY = '4e&6bz+(5&cg^_!05r(&7_#dghg_smrojq(yk)xa^bwg7j)^*j'
 SECRET_KEY = '4e&6bz+(5&cg^ksjfasf_!05r(&7_#dghg_smrojq(yk)xa^bwg7j)^*j'
 
-SECRET_KEY = login()
+SECRET_KEY = "login()"
